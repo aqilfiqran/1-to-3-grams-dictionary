@@ -8,8 +8,9 @@
     $ perl dictionary.pl <source clean file directory>
 ```
 3. output format format be like this with delimiter ":"
+
 | Word  | frequency | frequency normalization |
-| :------- | :---: | :--------: |
+| :--- | :---: | :---: |
 | Another  | 7328  | 0.00000196 |
 
 ## Requirement
